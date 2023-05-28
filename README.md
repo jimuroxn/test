@@ -1,2 +1,2 @@
 # test
-初めてのvscodeとgithubの連携
+初めてのgithub
